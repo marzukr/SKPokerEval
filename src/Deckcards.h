@@ -133,7 +133,7 @@ std::string const pretty_card[DECK_SIZE] = {
   "7♣",
 
   "6♠",
-  "6♠",
+  "6♥",
   "6♦",
   "6♣",
 
